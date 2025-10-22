@@ -1,13 +1,11 @@
-## Hi there 👋
+<!-- <img width="650" height="348" alt="image" src="https://github.com/user-attachments/assets/890531f9-aaad-462b-bfe3-0b17d3b12df0" />## Hi there 👋 -->
 
 
 this is for testing!
 I like to test! test!
 
 
-
-![Dev Pets](http://localhost:3000/api/pet?user=spencer-barrett)
-
+tesring
 
 <!--
 **spencerCPP/spencerCPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
